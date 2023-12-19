@@ -1,4 +1,4 @@
-# Power-BI---Maternity-leave-analysis
+# Power BI - Maternity-leave-analysis
 This project analyses maternity leave trends across various industries and companies and how it compares to paternity leaves.
 
 1. The dataset contains a CSV table with 1,601 records, one for each company.
